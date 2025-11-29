@@ -1,20 +1,18 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
-
+# Gestão de Projetos de Software: Fundamentos e Processos
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este notebook contem uma base de conhecimentos robustos com os melhores livros didáticos sobre Gestão (Gerenciamento) de Projetos de Software, além do PMBOK 7º edição
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- NotebookLM
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "NotebookLM" para criar e armazenar minha Base de Conhecimetno sobre Gestão de Projeto de Software, estruturar o conteúdo e refinar minhas ideias para criação de aulas com materiais inéditos, a cada turma. Esta ferramenta de IA foi a escolhida pois é possível produzir mapas mentais, vídeos, podcasts, infográficos, slides, cartões didáticos, testes e relatórios, na mesma plataforma, com uma qualidade que impressiona. 
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O mapa mental, vídeos, podcasts, slides, relatórios e testes apresentam um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+Gestão de Projetos de Software: Fundamentos e Processos
+Link aqui: https://notebooklm.google.com/notebook/c237e9fc-cc93-4752-81a6-6c3a496e6fca
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este notebook foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
