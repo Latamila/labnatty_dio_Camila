@@ -20,22 +20,24 @@ Olá pessoal, Aqui é a Camila! Inspirado na hype _"Natty or Not"_ do fisicultur
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Gestão de Projetos de Software
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Aula completa sobre Gestão de Projetos de Software.
+
+Foi fornecido 12 fontes bibliográficas ao Modelo para criar o Produto Educacional. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- NotebookLM
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi fornecido 12 fontes bibliográficas ao Modelo para criar o Produto Educacional. 
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi construído uma série de produtos educacionais para uma aula de 2 horas para alunos de Tecnologia da Informação. 
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
 ```
 
 ### Exemplos e Insigths
